@@ -1,4 +1,4 @@
-package com.project.nfl_player_prop;
+package com.project.nflplayerprop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
